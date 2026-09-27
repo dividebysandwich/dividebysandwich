@@ -8,6 +8,7 @@
 
 | Project | Description |
 | --- | --- |
+| [rust-dos](https://github.com/dividebysandwich/rust-dos) | A DOS emulator with SB/GravisUltrasound/MT32 and 3dfx emulation and supporting Windows 3.11 and Win95 |
 | [sdroxide](https://github.com/dividebysandwich/sdroxide) | A native SDR client for many radios (CAT, TCI, HPSDR, RTLSDR, SoapySDR, SDRPlay and more), written in Rust, with native and web remote UI (WASM), integrated CW/RTTY/PSK skimmer, many digi modes built in (FT8, RTTY, PSK, SSTV, FreeDV, etc), logbook, Winlink, 3D space weather, propagation map, satellite mode, and much more. |
 | [rusty-pipes](https://github.com/dividebysandwich/rusty-pipes) | A sample-based, MIDI-controlled virtual pipe organ instrument compatible with GrandOrgue and Hauptwerk sample sets. |
 | [rat-commander](https://github.com/dividebysandwich/rat-commander) | A spiritual successor to Midnight Commander with modern features like truecolor support and a built-in process and disk explorer, disk imager and network monitor. |
@@ -20,7 +21,6 @@
 ### Also worth a look
 
 - [wordstar-rs](https://github.com/dividebysandwich/wordstar-rs) - a clone of WordStar 7 based on Markdown, written in Rust
-- [rust-dos](https://github.com/dividebysandwich/rust-dos) - a DOS emulator written in 100% Rust
 - [birdnet-rs](https://github.com/dividebysandwich/birdnet-rs) - a Rust implementation of BirdNET with a Leptos web UI
 - [energy-controller](https://github.com/dividebysandwich/energy-controller) - control Victron battery storage and heat pumps based on spot energy market pricing
 - [stableflow](https://github.com/dividebysandwich/stableflow) - a streamlined web UI for Stable Diffusion written in Rust
